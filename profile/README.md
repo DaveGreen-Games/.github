@@ -1,4 +1,4 @@
-# Solo Byte Games Studios
+# Dave Green Games
 
 This is the place for all my major game dev projects.
 
