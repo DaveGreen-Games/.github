@@ -9,7 +9,8 @@ This is the place for all my major game dev projects. I am currently working on 
 
 
 ## Shape Engine
-![shape-engine-twittercover](https://github.com/DaveGreen-Games/.github/assets/34277803/57ea96f0-791b-4541-9b18-49cc63156c4c)
+![ShapeEngine 1 0 Release Banner Github Organization(1500x500)](https://github.com/DaveGreen-Games/.github/assets/34277803/73e9005a-3cb0-4889-a272-f7d8347b1382)
+
 
 Shape Engine is a simple 2d game engine focusing on drawing elements on the fly rather than using sprites. It has a built-in collision system, a simple ui system, and many other helpful features. [Linktree](https://linktr.ee/shapeengine)
 
